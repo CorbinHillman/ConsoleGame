@@ -1,0 +1,13 @@
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.exe
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.deps.json
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.json
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.dev.json
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.dll
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.pdb
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfo.cs
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.dll
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.pdb
+C:\Users\quebe\source\repos\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.genruntimeconfig.cache
