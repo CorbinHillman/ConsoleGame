@@ -35,6 +35,7 @@ namespace ConsoleGame
             {
                 Console.WriteLine("Save doesn't exists");
             }
+            DrawMap(ref world, roomLength, roomWidth);
             Console.CursorVisible = false;  //Removes cursor visability in console
             GameOn(true, ref world, roomLength, roomWidth, Player, Goblin); //Runs the Game
         }
@@ -522,15 +523,4 @@ namespace ConsoleGame
         }
 
     }
-
-    //[10%]  [√] Class (in addition to the class that contains Main)
-    //[10%]  [√] Enums (define one and also use it)
-    //[10%]  [√] Loops (both a while loop and a for loop)
-    //[10%]  [√] Methods  (at least one returning void, and one returning non-void)
-    //[10%]  [√] Constructor (at least one non-default constructor)
-    //[10%]  [√] Properties
-    //[10%]  [√] private and  public access modifiers
-    //[10%]  [√] Work with files
-    //[10%]  [√] Meaningful comments
-    //[10%]  [√] Containers (I recommend you to create a List<>)
 }
